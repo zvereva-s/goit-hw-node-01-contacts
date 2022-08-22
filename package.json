@@ -1,0 +1,25 @@
+{
+  "name": "goit-hw-node-01-contacts",
+  "version": "1.0.0",
+  "description": "goit-hw-node-01-contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://zvereva-s.github.io/goit-hw-node-01-contacts"
+  },
+  "keywords": [],
+  "author": "zvereva-s",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "bson-objectid": "^2.0.3",
+    "yargs": "^17.5.1"
+  }
+}
