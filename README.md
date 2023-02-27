@@ -1,21 +1,22 @@
 ## goit-hw-node-01-contacts
 
-### Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+### Get and display the entire list of contacts in the form of a table
 
-node index.js --action="list"
-link: http://joxi.ru/E2pY8wXSvLRRaA
+node index.js --action="list"<br>
+<img width="500" src="https://user-images.githubusercontent.com/96833638/221569631-b8ff8662-2045-4a92-9b73-694c1b5e79ff.png">
 
-### Отримуємо контакт по id
+### Get contact by id
 
-node index.js --action="get" --id=5
-link: http://joxi.ru/J2b0LGYtq7ddgr
+node index.js --action="get" --id=5<br>
+<img width="500" src="https://user-images.githubusercontent.com/96833638/221569864-e117c01e-8805-473e-91b2-eaeb249e251f.png">
 
-### Добавялем контакт
+### Add contact
 
-node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
-link: http://joxi.ru/krDPyEGtGY88Wr
+node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"<br>
+<img width="500" src="https://user-images.githubusercontent.com/96833638/221569994-d0d72130-fd3e-401a-b4ab-b1c0d4cb56b5.png">
 
-### Видаляємо контакт
 
-node index.js --action="remove" --id=3
-link: http://joxi.ru/1A5q6nvh4agg7A
+### Remove contact
+
+node index.js --action="remove" --id=3<br>
+<img width="500" src="https://user-images.githubusercontent.com/96833638/221570069-b4cd335a-2b00-4e19-8888-f11c96213675.png">
